@@ -1,0 +1,15 @@
+[submodule "DistributedSegmentation"]
+	path = DistributedSegmentation
+	url = https://github.com/edoardogiacomello/DistributedSegmentation.git
+[submodule "ChestXRayEnsembling"]
+	path = ChestXRayEnsembling
+	url = https://github.com/edoardogiacomello/ChestXRayEnsembling
+[submodule "FederatedLearningVsSplitLearningHealthcare"]
+	path = FederatedLearningVsSplitLearningHealthcare
+	url = git@github.com:edoardogiacomello/FederatedLearningVsSplitLearningHealthcare.git
+[submodule "SegAN-CAT"]
+	path = SegAN-CAT
+	url = git@github.com:edoardogiacomello/SegAN-CAT.git
+[submodule "Brain-MRI-generation-using-GANs"]
+	path = Brain-MRI-generation-using-GANs
+	url = git@github.com:edoardogiacomello/Brain-MRI-generation-using-GANs.git
